@@ -6,6 +6,7 @@
 
     <groupId>org.javatechie</groupId>
     <artifactId>docker-jenkins-integration-sample</artifactId>
+
     <build><finalName>docker-jenkins-integration-sample</finalName></build>
 
     <properties>
